@@ -1,0 +1,25 @@
+{
+  "name": "bowling",
+  "version": "1.0.0",
+  "description": "Because Cliff said so",
+  "main": "bowl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webpropopuli/bowling.git"
+  },
+  "keywords": [
+    "bowling"
+  ],
+  "author": "DJM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webpropopuli/bowling/issues"
+  },
+  "homepage": "https://github.com/webpropopuli/bowling#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
